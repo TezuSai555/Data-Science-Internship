@@ -1,6 +1,6 @@
 # Data-Science-Internship
 
-##**Book Library Management System**
+**Book Library Management System**
 
 •	**Description:** This project involves developing a GUI-based application for managing a personal book library. Users can add, edit, and delete books, as well as search for books by title, author, or genre. MongoDB can be used to store book information.
 
